@@ -1,0 +1,4 @@
+package com.editorial.editorialweb.beans;
+
+public class Material {
+}
